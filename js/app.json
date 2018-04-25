@@ -1,0 +1,34 @@
+{
+	"songs": [
+		{
+			"id":0,
+			"name":"Creo en ti",
+			"artist":"Calle 13",
+			"song":"music/creoenti.mp3",
+			"image":"img/imagen2.jpg"
+		},
+		{
+			"id":1,
+			"name":"Ojos color sol",
+			"artist":"Calle 13",
+			"song":"music/Ojoscolorsol.mp3",
+			"image":"img/imagen3.jpg"
+		},
+		{
+			"id":2,
+			"name":"Ojalá",
+			"artist":"Silvio Rodriguez",
+			"song":"music/Ojala.mp3",
+			"image":"img/imagen4.png"
+		},
+		{
+			"id":3,
+			"name":"Ya me enteré",
+			"artist":"Reik",
+			"song":"music/Yameentere.mp3",
+			"image":"img/imagen2.jpg"
+		}
+
+
+	] 
+}
